@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { metadata } from "./metadata";
+
 
 import "./globals.css";
 import Footer from "@/components/Footer";
@@ -26,10 +28,8 @@ const Satoshi = localFont({
   variable: '--font-satoshi',
 });
 
-export const metadata: Metadata = {
-  title: "Umar Khalid",
-  description: "The best choice for product designer for your next project",
-};
+export { metadata };
+
 
 export default function RootLayout({
   children,
