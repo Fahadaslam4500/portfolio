@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description: "Experienced product designer with 6+ years in the industry, specializing in clean, modern, and functional UI/UX using Figma. Currently working at GammaLabs, delivering aesthetic and practical design solutions.",
   keywords: [
     "Product Designer",
+    "Umer Khalid",
+    "Umer Khalid Co",
+    "Umer Designer",
     "UI UX Expert",
     "Figma Designer",
     "Modern Design",
