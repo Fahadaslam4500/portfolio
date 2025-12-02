@@ -24,7 +24,7 @@ const experiences = [
   },
   {
     title: "Product Designer",
-    company: "Truebill/Rocket Money",
+    company: "Truebill / Rocket Money",
     duration: "Sep 2018 - Nov 2019",
   },
 ];
